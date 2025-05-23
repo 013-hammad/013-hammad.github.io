@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border: solid 2px black;
+  font-style: italic;
+}
+
+h2 {
+  color: green;
+  font-style: italic;
+}
+
+section {
+  padding: 30px;
+  border-radius: 10px;
+  font-size: 18px;
+  border: solid 1px black;
+}
+
+body {
+  background-color: greenyellow;
+  font-family: "Arial", sans-serif;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+
+footer {
+  text-align: center;
+  font-size: 14px;
+  color: gray;
+  margin-top: 20px;
+}/*# sourceMappingURL=style.css.map */
